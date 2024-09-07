@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.521888ae.css",
+    "main.js": "./static/js/main.bbeca8b2.js",
+    "static/media/bg.svg": "./static/media/bg.d30e8497eb8aa0bf8d75e4078142c3fe.svg",
+    "static/media/Boska-MediumItalic.otf": "./static/media/Boska-MediumItalic.853284d1deeff5c23f2f.otf",
+    "static/media/LuxoraGrotesk-Light.ttf": "./static/media/LuxoraGrotesk-Light.1ab066f3f412739f17cf.ttf",
+    "static/media/logo.png": "./static/media/logo.07c37ebbedcacc0fb145.png",
+    "static/media/insta.svg": "./static/media/insta.ad94f8d9254db1d089ac34a2c8c91a3f.svg",
+    "index.html": "./index.html",
+    "main.521888ae.css.map": "./static/css/main.521888ae.css.map",
+    "main.bbeca8b2.js.map": "./static/js/main.bbeca8b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.521888ae.css",
+    "static/js/main.bbeca8b2.js"
+  ]
+}
